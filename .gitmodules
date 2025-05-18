@@ -1,0 +1,3 @@
+[submodule "suna"]
+	path = suna
+	url = https://github.com/zanaisu/sunaknife.git
